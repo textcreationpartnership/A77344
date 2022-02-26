@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breviate of the weavers business before the Honourable Committee of the House of Commons in the Star-Chamber.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77344</idno>
+            <idno type="STC">Wing B4416</idno>
+            <idno type="STC">Thomason E455_6</idno>
+            <idno type="STC">ESTC R205013</idno>
+            <idno type="EEBO-CITATION">99864459</idno>
+            <idno type="PROQUEST">99864459</idno>
+            <idno type="VID">162027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162027)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E455[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breviate of the weavers business before the Honourable Committee of the House of Commons in the Star-Chamber.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "July 28 1648".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162027:1" rendition="simple:additions"/>
+            <head>A BREVIATE OF THE WEAVERS <hi>B<g ref="char:V">Ʋ</g>SINESS</hi> Before the Honourable Committee of the Houſe of Commons in the <hi>Star-Chamber.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>July 28 1648</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat their Opponents in their Petitions referred to this honourable Committee. charge the ſaid Go<g ref="char:EOLhyphen"/>vernors to have committed many things contrary to the Statute-lawes and Ordinances of the ſaid Company.</p>
+            <p>And the ſaid Governors have put in their An<g ref="char:EOLhyphen"/>ſwer to each particular charge, in ſome things juſtifying their practices, either by preſcription, by their Charter confirmed in Parliament, by the Statute-Laws, or by the allowed Ordinances of the ſaid Company; And in other things by deniall of the charge, referr the ſame to the proof on both ſides.</p>
+            <p>Now foraſmuch as there is no other rule of ſafety for the ſaid Governors to act and regulate by, or their members to ſubmit unto, then the Ordinances of their Company procured by common conſent, and confirmed by the Judges, according to 19. <hi>H.</hi> 7. <hi>Cap.</hi> 7. (which they are reſpectively engaged by Oath to obſerve) untill the ſaid Ordinances be by the ſame, or a higher Power repealed. And foraſmuch as the ſaid Opponents charge the ſaid Governors with breach of the ſaid Ordinances:</p>
+            <p>The ſaid Governors doe therefore humbly pray this ho<g ref="char:EOLhyphen"/>nourable Committee, That in the drawing up of the Report to the honourable Houſe of Commons touching the Pre<g ref="char:EOLhyphen"/>miſes;
+<pb n="2" facs="tcp:162027:2"/>you will be pleaſed to permit the Clerk of the ſaid Company to attend your Honors with their Books of Ordi<g ref="char:EOLhyphen"/>nances under Seal, together with the Statute-Book, and other matters of Record by them quoted; to the end their practiſes may be examined by them, and this honourable Committee may receive full ſatisfaction.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>1</label> That the Governors of the ſaid Company have admitted Stran<g ref="char:EOLhyphen"/>gers,contrary to Law, to the undoing of the Petitioners and their Families.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> That in 47. years there hath been admitted into this Company 317 Strangers, that fled into this Kingdom for Religion, and were allowed by the State to inhabite in this Realm, and to have Chur<g ref="char:EOLhyphen"/>ches and Congregations not onely in <hi>London,</hi> but in <hi>Norwich, Yarmouth, Colcheſter, Canterbury,</hi> and other Cities and Maritine towns in this Kingdom where Strangers doe ſtill live, and exerciſe Weaving without moleſtation.</p>
+            <p n="2">2. Theſe Statutes ſtill in force, viz. 14. <hi>H.</hi> 8. <hi>Cap.</hi> 2.21. <hi>H.</hi> 8. <hi>Ca.</hi> 16. and 32. <hi>H.</hi> 8. <hi>Ca.</hi> 16. give liberty to Strangers born, Denizens, or not Denizens to take Apprentices and Journey-men, (provided they be born under the Kings obeyſance) and appoint the Maſter and Wardens of Companies in <hi>London,</hi> to regulate all ſuch Strangers or Denizens, and their Manufactures, as doe uſe their reſpective Arts within two miles of <hi>London;</hi> and to admini<g ref="char:EOLhyphen"/>ſter the Oath mentioned in the Star-Chamber Decree, made 20. <hi>H.</hi> 8. as by the ſame Statutes may appear.</p>
+            <p n="3">3. Theſe Ordinances confirmed by the Judges, <hi>viz.</hi> 31, 45, &amp; 53. appoints the ordering and regulating of Strangers, Denizens, and Forainers.</p>
+            <p n="4">4 By preſcription by their Charter, confirmed in Parliament, And by the 15 and 17 Ordinances of this Company the ſaid Go<g ref="char:EOLhyphen"/>vernors have liberty to admit whom they conceive fit into their Corporation.</p>
+            <p n="5">5. Whereas their Opponents in their Petitions, and before this honourable Committee have from time to time in a moſt lamen<g ref="char:EOLhyphen"/>table manner alledged and affirmed, that they and their families (being many thouſands) doe want emploiment, and are undone in their Trade by reaſon of the multitude of Strangers that are continually admitted into their Company.</p>
+            <p>The ſaid Governors doe upon their reputation affirm unto your Honours, That by the diligenteſt ſearch and courſe they can
+<pb n="3" facs="tcp:162027:2"/>poſſibly take, they cannot diſcover that there is twenty Maſter-ſtrangers admitted that weave any of thoſe kindes of ware which theſe Opponents were bred up unto, or deale in, the Strangers being generally Weavers of broad Silks and Stuffs; and the ſaid Opponents are Weavers of Ribbonds and Laces.</p>
+            <p>Laſtly, the ſaid Governors doe manifeſt that they have really endevoured to procure a reſtriction of the comming over of ſtran<g ref="char:EOLhyphen"/>gers Weavers in the future; as by their Bill twice read in the houſe of Commons at the beginning of this Parliament, which is now before this honourable Committee, may clearly appear. Which Bill, together with a new draught of a Bill ſince delivered to this honourable Committee, the Governors humbly deſire may be ta<g ref="char:EOLhyphen"/>ken into conſideration.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>2</label> That the Governors have admitted many Natives that have not ſerved ſeven years to the ſaid Trade.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> This Charge the ſaid Governors deny, affirming, That they never admit any native Weaver, untill they have good teſtimony either upon Oath or credible Certificate, that each partie to be admitted hath ſerved ſeven years apprentice to the ſaid Trade, this being the onely rule and practice in all the Companies in <hi>London.</hi>
+            </p>
+            <p>Moreover, if it be found that any perſons have given falſe teſti<g ref="char:EOLhyphen"/>mony or counterfeited any Certificate, they are liable to puniſh<g ref="char:EOLhyphen"/>ment; but the Governors are not therefore to be blamed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>3</label> That the ſaid Governors have exacted Fees of thoſe they make Free, <hi>viz.</hi> a Silver ſpoon and ij. <hi>s.</hi> iiij <hi>d.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 1. The 27 Ordinance of the ſaid Company in expreſs words appointeth them to take the ſaid Spoon; yet they remit it to all that are not well able to give the ſame; and there is not one perſon of an hundred but gives it freely.</p>
+            <p n="2">2. The ſpoones ſo received are not diverted to particular or private uſes (as by ſome hath been ſuggeſted) but are duly accoun<g ref="char:EOLhyphen"/>ted for every yeer; therefore if they ſhould be inhibited to be taken in the future, the prejudice will bee to the ſtock not to the Gover<g ref="char:EOLhyphen"/>nours.</p>
+            <p n="3">3. As touching the ij <hi>s.</hi> iiij <hi>d.</hi> above mentioned it is not paid to the Governours, but to three Officers of their Company, it being the uſuall conſtant fee which hath been paid and continued time out of mind, unto the ſaid Officers and their predeceſſors for gi<g ref="char:EOLhyphen"/>ving the oath, recording the teſtimony of each mans due ſervice to the trade, and his admittance thereupon, and for poſting them
+<pb n="4" facs="tcp:162027:3"/>into ſeverall other books, and for other ſervices and attendances in and touching the premiſes; The ſaid Officers having but 4 <hi>l.</hi> a peece <hi>per annum</hi> for their ſervice, beſides ſuch accidents as ma<g ref="char:EOLhyphen"/>king free, binding Apprentices, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>4</label> That the Commonalty are deprived of their right, in being de<g ref="char:EOLhyphen"/>nied their voice in electing of the Bailiffs and Wardens of the ſaid Company yeerly.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <note place="margin">
+                  <hi>Note,</hi> That in moſt Companies the Maſter and War<g ref="char:EOLhyphen"/>dens are choſen by the Aſſi<g ref="char:EOLhyphen"/>ſtants only, without the Livery.</note>1. The Bailiffs of this Company,ever ſince they were a Corpo<g ref="char:EOLhyphen"/>ration (which is about 500. years) have conſtantly been nomina<g ref="char:EOLhyphen"/>ted and elected, by the old Bailiffs, Wardens, Aſſiſtants, and Li<g ref="char:EOLhyphen"/>very of the ſaid Company only, and that by ſcrutinie, without any interruption or intermixture of any other perſons, under the degree of the Livery whatſoever.</p>
+            <p n="2">2. This manner of electing the Officers of Corporations by a certaine ſelect number of rank and degree (as is practiſed in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and other popular Cities) hath long ſince been reſolved in a caſe of Law by all the Judges, to be good and agreeable with the Law, for the avoiding of popular diſorder and confuſion, (not<g ref="char:EOLhyphen"/>withſtanding the word Commonalty ſpecified in their Charter,) as may cleerly appear in the Lord <hi>Cookes</hi> fourth Report, fol. 77. and 78. touching Corporations.</p>
+            <p n="3">3. When any Common-halls are called in <hi>London</hi> for the pub<g ref="char:EOLhyphen"/>lick ſervice of the State or City, as for the chooſing of Magiſtrates, granting of Loan moneys, &amp;c. none but the Liveries of the ſeve<g ref="char:EOLhyphen"/>rall Companies are ſummoned or permitted to be there, and what<g ref="char:EOLhyphen"/>ſoever they conclude upon, is binding to the ſeverall members of each reſpective Company in <hi>London;</hi> otherwiſe inſtead of regular reſolutions, nothing could be produced but terror and confuſion.</p>
+            <p>Laſtly, the ſaid Governors conceive, that their cuſtome being of that antiquity, is amongſt the reſt of the cuſtomes of <hi>London</hi> con<g ref="char:EOLhyphen"/>firmed by <hi>Magna Charta.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>5</label> That the Governours have received the treaſure and ſtock of the ſaid Company, and refuſe to give any account thereof.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 1. The Governours humbly conceive, that this Honourable Committee at the firſt general hearing were reſolved to decline this particular charge, in regard it then appeared not only by their Councell, but alſo by an Order in Chancery, that the ſame buſi<g ref="char:EOLhyphen"/>neſſe brought thither by their Adverſaries was yet depending in that Honorable Court; yet nevertheleſſe their opponents have ſince procured the ſaid accounts to be peruſed, and have taken upon
+<pb n="5" facs="tcp:162027:3"/>them to put in ſeverall exceptions againſt the ſaid accounts, which exceptions were received by this Honorable Committee 7. <hi>Julii</hi> inſtant, at which time it was thought fit and ordered, That the Governors ſhould not put in any anſwer unto the ſaid exceptions.</p>
+            <p>Therefore the ſaid Governours are inforced to remind your Ho<g ref="char:EOLhyphen"/>nors of ſome heads of what they have formerly preſented to this Honorable Committee touching their accounts, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That the accounts of this Company have been yeerly exa<g ref="char:EOLhyphen"/>mined, audited, and allowed by Auditors choſen and qualified ac<g ref="char:EOLhyphen"/>cording to the fifth and fortieth Ordinances of the ſaid company, confirmed by the Judges according to the Statute of 19. <hi>H.</hi> 7. <hi>Cap.</hi> 7.</p>
+            <p n="2">2. That all moneys expended out of the common ſtock for the neceſſary and publick affaires of the Company are allowed by the ſaid fortieth Ordinance, &amp; therefore they ought not to be excep<g ref="char:EOLhyphen"/>ted againſt by their Opponents (who being members of the ſaid Company are ſworne to the due obſervance of the ſaid Ordinan<g ref="char:EOLhyphen"/>ces aſwell as their Governours) but to be concluded by the ſaid Ordinances.</p>
+            <p n="3">3. If the generality of this or any other Corporation, have a right to except againſt any part of the disburſments of their Maſters and Wardens, then their power wil hold equall to except againſt all their accounts, which if graunted, it will unavoydably follow, that Governours cannot purchaſe, let or ſet, or take up mo<g ref="char:EOLhyphen"/>nies at intereſt upon the Common-Seale of that Corporation, for the defraying of any publick ſervice, without the conſent of eve<g ref="char:EOLhyphen"/>ry individuall member of the ſame Company, the dangerous con<g ref="char:EOLhyphen"/>ſequence whereof, the Governours humbly leave to your Honors moſt ſerious conſideration, humbly praying that no ſuch excepti<g ref="char:EOLhyphen"/>ons may ly againſt their accounts, nor any ſuch thing brought in preſident in the future againſt them, or any other in like caſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge, </seg>6</label> That the ſtock of their Company is waſted, and that there is no proviſion made for their poore.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 1. In defence to this Charge the ſaid Governours anſwere,That they have land and arrears of Rent in <hi>Ireland,</hi> which if they did enjoy would amount unto a thouſand pound, beſides they have lent and paid for the uſe of the State, ſince 12. <hi>October</hi> 1640. above One thouſand pounds more.</p>
+            <p n="2">2. They affirme that they have 46. ſetled Penſioners of their Company, beſides above 60. other poore, that they releive quar<g ref="char:EOLhyphen"/>terly; and could they be freed from theſe expenſive troubles, they
+<pb n="6" facs="tcp:162027:4"/>might ſoon by the bleſſing of God raiſe a good ſtock for their Company.</p>
+            <p n="3">3. The ſaid Governours humbly intreat your Honours to take ſpeciall notice, that theſe Opponents who queſtion and except againſt the accounts of the ſaid Governours, which have beene duly audited and allowed according to the allowed Ordinances of the ſaid Company, have themſelves for many yeers together recei<g ref="char:EOLhyphen"/>ved the Journeymens quarteridge, (which if duly collected, is equivalent to the Maſters Quarteridge) and have ſhared it amongſt themſelves, refuſing to give any account thereof unto their Governours, contrary to their ſeverall Oathes; which ſaid Quarteridge belongeth to the ſtock of the ſaid Company, as by the 43. Ordinance of the ſaid Company may clearly appear, and not to their private uſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>7</label> That the ſaid Governours have diſmiſſed the Yeomandry con<g ref="char:EOLhyphen"/>trary to an Order of the Court of Lord Major and Alder<g ref="char:EOLhyphen"/>men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> The ſaid Governours affirme, that they have not diſmiſſed them, but in regard they are the Governours ſubſtitutes, and for that by Law the ſaid Governours are lyable to anſwer all miſde<g ref="char:EOLhyphen"/>meanours committed by them, And for that the ſaid Opponents have practiſed to ſow ſedition betweene the Governours and their Members, &amp;c. Therefore the Court of Aſſiſtants and Livery made an Order for the regulating them and their ſearchers, for the ſafety of the ſaid Company in the future, according to the 5.26. and 43. Ordinances of the ſaid Company.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>8</label> That the ſaid Governours doe not put the Lawes of the Realm, the Ordinances of the ſaid Company, and Orders of the Lord Major and Aldermen in execution againſt Offenders.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 1. As by the Law the ſaid Governours may not proceed a<g ref="char:EOLhyphen"/>gainſt their Members before their offence be proved, ſo when due proofe hath beene made of any offence, the ſaid Governours have duely proceeded againſt Offenders, according to their re<g ref="char:EOLhyphen"/>ſpective Oathes.</p>
+            <p n="2">2. The Orders of the Court of Lord Major and Aldermen, produced by the Opponents for ſuing one <hi>Richard Fletcher,</hi> and o<g ref="char:EOLhyphen"/>thers in thoſe Orders ſpecified, bears date in <hi>Anno</hi> 1627. and 1630. which was long before theſe Governours were in place; and therefore ought not to be charged therewith.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Charge. </seg>9</label> That the ſaid Governors purchaſed a Patent and Contract, very deſtructive to the Trade and Society.</p>
+            <pb n="7" facs="tcp:162027:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> This Contract the ſaid Governours withſtood 3. yeers together, and endeavoured their utmoſt to have avoyded the ſame, which ſaid Contract was by the procurement of the ſaid Governours, diſcharged in <hi>July,</hi> 1640. And as touching that which their Opponents terme, a Patent or Monopoly, the ſaid Governours doe affirme, that the Commonwealth hath beene, and at preſent is very much prejudiced by adulterated, inſufficient, and cheating Wares and Commodities, which are thereby inhibited, and which had long ſince beene prevented, (had not the ſaid Charter beene under reſtraint by means of their Opponents) All which is more fully ſet forth in the Governours anſwer to this particular charge received by this Honorable Committee and reade, 22. <hi>June</hi> laſt, unto which together with their former Anſwer they referre.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Cauſe. </seg>1</label> The cauſe why many Weavers, as well as other Tradeſmen, want imployment, is the generall obſtruction of Trade that hath been occaſioned through the diſtraction of the times, for if there were a free open Trade again, albeit there were more Weavers then there are, yet they could not want imployment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Cauſe. </seg>2</label> Is the great prices that ſilke hath been at of late, inſo much that the Weavers can hardly make one of one.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Cauſe. </seg>3</label> Is the importation of Woven Laces, and Ribbonds from <hi>France,</hi> and other forain parts, which are inhibited by the Statute of 19 <hi>H.</hi> 7. <hi>Cap.</hi> 21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Cauſe. </seg>4</label> It, that as many Weavers Apprentices went out in the States Service ſince theſe troubles began, ſo their Maſters tooke other Apprentices in their roomes, and now many of the firſt being returned againe hath encreaſed the number of Weavers ex<g ref="char:EOLhyphen"/>ceedingly.</p>
+            <p>This is the ſummary account of the Governours anſwers de<g ref="char:EOLhyphen"/>livered at ſeverall times unto this honorable Committee.</p>
+            <p>And now the Governours humbly deſire your Honors patience to peruſe theſe enſuing particulars.</p>
+            <p n="1">1. That in the progreſſe of this buſineſſe their Opponents, from time to time, have enlarged their accuſations farre beyond the bounds of their petitions referred to your Honors, or their proofs touching the premiſſes.</p>
+            <p n="2">2. The ſaid Governours have uſed their utmoſt endeavours by way of Treaty with their Opponents, to have compoſed their differences according to the advice of this Honorable Committee.
+<pb n="8" facs="tcp:162027:5"/>But becauſe the ſaid Governours could not condeſcend to ſome of their Opponents demands, (which tend to the totall ſubverſion of the ancient eſtabliſhed Government of the ſaid Company) the ſaid opponents brake off, &amp; declared they would treat no further, with them; an account whereof the ſaid Governours and Livery preſented to this Honorable Committee, ſubſcribed by them 12. <hi>April</hi> laſt, which they humbly deſire may be by your Honors taken into conſideration. Since which time the ſaid Opponents, to raiſe up the difference between the members of the ſaid Company and the ſaid Governours, have printed and publiſhed a moſt notorious libell, wherein they caſt many ſcandalls and reproaches upon the ſaid Governors, &amp; wherein they term the ſaid Governors cheaters, affirming that within this few yeeres they have received 1200 <hi>l.</hi> in bribes, and ſhared it amongſt themſelves; which libell being full of other notorious ſcandals &amp; calumnies (to the end it ſhould be taken for truth) they entituled it, [The humble repreſentation of the Commonalty of the Company of Weavers to the high Court of Parliament] but never durſt deliver it to the Parliament to this day: Which Libell, together with ſeverall other Libels by them printed and publiſhed; together with their other practiſes in going from houſe to houſe to incenſe the people againſt the ſaid Gover<g ref="char:EOLhyphen"/>nors; hath made them ſo odious, that now many of their Members in ſtead of paying their duties, and conforming to government, refuſe to pay any more, and reproach and threaten the ſaid Governors when they are in execution of their ſervice for the Company, to their great diſcouragement and danger.</p>
+            <p>And the Governors hope this Committee will call to mind the ſaid Opponents uncivill and tumultuous carriage before this ho<g ref="char:EOLhyphen"/>norable Committee, both againſt them, the Governors, and their Councell; to which the Governors might add their many other ſtrange and feditious practiſes to enforce their clamorous and falſe aſperſions caſt upon the Governors; and that during the depen<g ref="char:EOLhyphen"/>dency of the Cauſe upon their own complaint before the Parlia<g ref="char:EOLhyphen"/>ment, and by way of reference before this honorable Committee; of which inſolencies and bold miſcarriages, as the Governors hope to finde a time to be heard upon their further Information, ſo they humbly expect and deſire, That this honorable Committee, for ſo much as thereof hath already appeared before them (the matter, as the Governors conceive, concerning the Honor and Juſtice of Parliament) will he pleaſed to take the ſame into their due and ſe<g ref="char:EOLhyphen"/>rious conſideration.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
